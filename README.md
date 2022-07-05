@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Jeferson Muniz👋
 
 - 🔭 Atualmente trabalho na área de construção civil
-- 🌱 Atualmente estou estudado análise e desenvolvimento de sistemas e fazendo um curso de análise de dados ofertado pela Google
+- 🌱 Atualmente estou graduando em análise e desenvolvimento de sistemas e fazendo um curso de análise de dados ofertado pela Google
 - 📫 Contate-me no email: fersonmuniz34@hotmail.com
 - 😄 Pronouns: ele/dele
 
